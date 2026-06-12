@@ -766,7 +766,7 @@
       visibility:hidden;
       font-size: 0;
       padding: 0;
-      maegin: 0;
+      margin: 0;
       }
 
     /* アクティブ番号 */
